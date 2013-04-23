@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<deviceDatabase>
+
+    <device>
+		<manufacturer>HTC</manufacturer>
+		<model>Desire HD</model>
+		<horizontalViewAngle>48.76</horizontalViewAngle>
+		<verticalViewAngle>30.4</verticalViewAngle>
+	</device>
+	
+	<device>
+		<manufacturer>HTC</manufacturer>
+		<model>Legend</model>
+		<horizontalViewAngle>53.13</horizontalViewAngle>
+		<verticalViewAngle>36.6</verticalViewAngle>
+	</device>
+	
+	<device>
+		<manufacturer>HTC</manufacturer>
+		<model>Desire</model>
+		<horizontalViewAngle>53.13</horizontalViewAngle>
+		<verticalViewAngle>33.05</verticalViewAngle>
+	</device>
+	
+	<device>
+		<manufacturer>HTC</manufacturer>
+		<model>Hero</model>
+		<horizontalViewAngle>49.55</horizontalViewAngle>
+		<verticalViewAngle>34.2</verticalViewAngle>
+	</device>
+	
+	<device>
+		<manufacturer>HTC</manufacturer>
+		<model>Droid Incredible</model>
+		<horizontalViewAngle>49.62</horizontalViewAngle>
+		<verticalViewAngle>30.84</verticalViewAngle>
+	</device>
+	
+	<device>
+		<manufacturer>Acer</manufacturer>
+		<model>Liquid</model>
+		<horizontalViewAngle>57.2</horizontalViewAngle>
+		<verticalViewAngle>30.84</verticalViewAngle>
+	</device>
+	
+	<device>
+		<manufacturer>Google</manufacturer>
+		<model>Nexus One</model>
+		<horizontalViewAngle>53.5</horizontalViewAngle>
+		<verticalViewAngle>42.28</verticalViewAngle>
+	</device>
+	
+	<device>
+		<manufacturer>Motorola</manufacturer>
+		<model>Droid</model>
+		<horizontalViewAngle>54.3</horizontalViewAngle>
+		<verticalViewAngle>42.0</verticalViewAngle>
+	</device>
+	
+	<device>
+		<manufacturer>Motorola</manufacturer>
+		<model>Droid X</model>
+		<horizontalViewAngle>47.37</horizontalViewAngle>
+		<verticalViewAngle>37.7</verticalViewAngle>
+	</device>
+	
+	<device>
+		<manufacturer>Samsung</manufacturer>
+		<model>Galaxy S</model>
+		<horizontalViewAngle>53.81</horizontalViewAngle>
+		<verticalViewAngle>41.61</verticalViewAngle>
+	</device>
+	
+</deviceDatabase>

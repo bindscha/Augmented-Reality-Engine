@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/overlay_dialog_layout_vertical"
+              android:orientation="vertical"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:padding="20dp"
+              >
+              
+	<View
+    		android:layout_width="fill_parent"
+    		android:layout_height="1dp"
+    		android:background="?android:attr/listDivider" /> 
+              
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/overlay_dialog_layout_horizontal"
+              android:orientation="horizontal"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content">
+	    <ImageView android:id="@+id/overlayImage"
+	               android:layout_width="wrap_content"
+	               android:layout_height="wrap_content"
+	               android:layout_marginRight="10dp" />
+	    <TextView android:id="@+id/overlayText"
+	              android:layout_width="wrap_content"
+	              android:layout_height="wrap_content"
+	              android:textColor="#FFF" />
+	</LinearLayout>
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/overlay_dialog_layout_horizontal"
+              android:orientation="horizontal"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content">
+		<Button android:id="@+id/showOnMap"
+				android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text='@string/show_on_map_button' 
+	            android:layout_gravity="center_horizontal" />
+		
+		<Button android:id="@+id/dismiss"
+				android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text='@string/dismiss_dialog_button' 
+	            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+
+</LinearLayout>

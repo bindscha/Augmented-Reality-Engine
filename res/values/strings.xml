@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ARLO</string>
+    
+    <string name="loading">Loading...</string>
+    <string name="preparing_camera">Preparing camera...</string>
+    <string name="building_data_structures">Building data structures...</string>
+    <string name="loading_layout">Loading layouts...</string>
+    <string name="registering_location">Registering location services...</string>
+    <string name="display_overlays">Displaying overlays...</string>
+    
+    <string name="engine_resumed_from_background">Resumed from background</string>
+    
+    <string name="gps_dialog_title">GPS not enabled</string>
+    <string name="gps_enable">The application has determined that the GPS service is currently not enabled on this phone. Please click on the button below and then tick \'Use GPS satellites\' before continuing.</string>
+	<string name="gps_enable_button">Enable GPS</string>
+	<string name="gps_status_available">GPS Available</string>
+	<string name="gps_status_temporarily_unavailable">GPS Temporarily Unavailable.\nReconnecting...</string>
+	<string name="gps_status_out_of_service">GPS Out Of Service</string>
+	
+	<string name="new_location">Entered new location</string>
+	
+	<string name="show_on_map_button">Show on Map</string>
+	<string name="dismiss_dialog_button">Dismiss</string>
+	
+	<string name="map">Map</string>
+	<string name="list">Settings</string>
+</resources>
